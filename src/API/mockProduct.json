@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "1",
+        "name" : "Tinkoff Black",
+        "img" : "tinkoff",
+        "brand" : "Tinkoff",
+        "specList" : [["Процент на остаток", "До 7%"], ["Обслуживание", "Бесплатно"], ["Кэшбэк", "До 30%"]],
+        "link" : "https://www.workle.ru/id3323807/product/529815/offer/?w_method=direct_link"
+
+    },
+    {
+        "id" : "2",
+        "name" : "Мультикарта",
+        "img" : "vtb",
+        "brand" : "ВТБ",
+        "specList" : [["Процент на остаток", "До 8%"], ["Обслуживание", "Бесплатно"], ["Кэшбэк", "До 15%"]],
+        "link" : "https://www.workle.ru/id3323807/product/529815/offer/?w_method=direct_link"
+    },
+    {
+        "id" : "3",
+        "name" : "#Можновсе",
+        "img" : "rosbank",
+        "brand" : "Росбанк",
+        "specList" : [["Процент на остаток", "До 6%"], ["Категорий кэшбэка", "18"], ["Кэшбэк", "До 25%"]],
+        "link" : "https://www.workle.ru/id3323807/product/528039/offer/?w_method=direct_link"
+    }
+]
